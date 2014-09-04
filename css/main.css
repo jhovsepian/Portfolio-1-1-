@@ -4,5 +4,16 @@ body {
 .about-me {
 	text-align: center;
 	color: aqua;
-border: 1px solid aqua;
+	border: 1px solid aqua;
+	background-image: url("http://1.bp.blogspot.com/-Vcy06E_EvqI/To1z8FdZPGI/AAAAAAAAANc/k-fpcn6j7ak/s1600/Dark%2BPurple%2BFlowers.gif");
+}
+ 
+.container {
+	text-align: center;
+	color: aqua;
+}
+h1 {
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
