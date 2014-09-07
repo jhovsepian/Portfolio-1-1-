@@ -19,10 +19,6 @@ h1 {
 }
 
 img {
-	float: left;
-	float: right;
-}
-
-img {
+	display: inline-block;
 	float: left;
 }
