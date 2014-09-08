@@ -7,8 +7,9 @@ body {
 	text-align: center;
 	color: aqua;
 	border: 1px solid aqua;
-	background-image: url("http://1.bp.blogspot.com/-Vcy06E_EvqI/To1z8FdZPGI/AAAAAAAAANc/k-fpcn6j7ak/s1600/Dark%2BPurple%2BFlowers.gif");
+	background-image: url("http://cdn.taken.photos/images/www.scenicreflections.com/files/brown_and_teal_flower_abstract_Wallpaper_8wa6g.jpg");
 }
+
  
 .container {
 	text-align: center;
@@ -23,4 +24,11 @@ h1 {
 img {
 	display: inline-block;
 	float: left;
+}
+
+.footer {
+	text-align: center;
+	font-size: 33px;
+	color: aqua;
+	background-image: url("http://cdn.taken.photos/images/www.scenicreflections.com/files/brown_and_teal_flower_abstract_Wallpaper_8wa6g.jpg");
 }
