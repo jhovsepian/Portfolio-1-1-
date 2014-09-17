@@ -5,6 +5,11 @@ div {
 	padding: 30px;
 }
 
+.no-borders {
+	border: 0;
+}
+
+
 .container {
 	border-color: aqua;
     
