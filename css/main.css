@@ -5,6 +5,12 @@ body {
 	
 }	
 
+#container {
+	width: 960px;
+	margin: 0px auto;
+}
+
+
 .about-me {
 	text-align: center;
 	color: aqua;
@@ -35,3 +41,11 @@ img {
 	background-image: url("http://cdn.taken.photos/images/www.scenicreflections.com/files/brown_and_teal_flower_abstract_Wallpaper_8wa6g.jpg");
 }
 
+#carousel-example-generic {
+	width: 1350px;
+
+}
+
+@media only screen and (max-device-width: 480px), only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 1.5) {
+/* iPhone only */
+}
