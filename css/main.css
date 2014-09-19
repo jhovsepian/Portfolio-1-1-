@@ -46,6 +46,13 @@ img {
 
 }
 
-@media only screen and (max-device-width: 480px), only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 1.5) {
+/*@media only screen and (max-device-width: 480px), only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 1.5) {*/
 /* iPhone only */
+/*}*/
+
+@media (max-width: 320px) {
+	#myCarousel.carousel img {
+		width: 100px;
+		height: auto;
+	}
 }
